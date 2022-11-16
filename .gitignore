@@ -1,0 +1,9 @@
+# File creating sensitive information #
+######################
+key.env
+
+
+# Cache folders, can be ignored #
+######################
+.ipynb_checkpoints/
+__pycache__
